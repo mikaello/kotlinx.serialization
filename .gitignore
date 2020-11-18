@@ -6,6 +6,9 @@
 out/
 *.iml
 
+# Bencchmark in the root
+benchmarks.jar
+
 # Gradle files
 build/
 .gradle/

@@ -43,3 +43,10 @@ dependencies {
     // async profiler
     compile group: 'pl.project13.scala', name: 'sbt-jmh-extras', version: '0.3.3'
 }
+
+jmhJar {
+    baseName 'benchmarks'
+    classifier = null
+    version = null
+    destinationDir = file("$rootDir")
+}
