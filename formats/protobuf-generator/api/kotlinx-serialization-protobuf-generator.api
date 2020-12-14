@@ -1,0 +1,5 @@
+public final class kotlinx/serialization/protobuf/generator/GenerationKt {
+	public static final fun generateProto (Ljava/util/List;Ljava/lang/String;Ljava/util/Map;)Ljava/lang/String;
+	public static synthetic fun generateProto$default (Ljava/util/List;Ljava/lang/String;Ljava/util/Map;ILjava/lang/Object;)Ljava/lang/String;
+}
+
