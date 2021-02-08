@@ -20,6 +20,7 @@ jmhJar {
     baseName 'benchmarks'
     classifier = null
     version = null
+    destinationDir = file("$rootDir")
 }
 
 dependencies {
